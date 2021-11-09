@@ -29,6 +29,9 @@ The project environment is similar to, but not identical to the Banana Collector
 
 ## Model Architecture
 
+Deep Q Network
+Replay Buffer
+
 
 
 
