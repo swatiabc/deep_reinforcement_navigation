@@ -4,7 +4,7 @@
 ### Introduction
 
 The goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
-![Gif of my implementation](media/agent working.gif)
+![Gif of my implementation](media/agent_working.gif)
 
 ### Model Architecture
 
