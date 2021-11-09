@@ -49,6 +49,10 @@ Replay Buffer
 
 ## Algorithm
 
+
+![Deep Q algorithm](media/algorithm.png)
+
+
 ## Plots of Rewards
 
 ## Ideas For Future Works
