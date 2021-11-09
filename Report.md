@@ -52,7 +52,18 @@ Replay Buffer
 
 ![Deep Q algorithm](media/algorithm.png)
 
+## Results
 
-## Plots of Rewards
+# Model Training
+
+
+![agent model training](media/agent_score.png)
+
+
+# Plots of Rewards
+
+![plot of rewards](media/agent_training_plot.png)
 
 ## Ideas For Future Works
+
+
