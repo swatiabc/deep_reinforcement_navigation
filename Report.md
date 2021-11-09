@@ -54,13 +54,13 @@ Replay Buffer
 
 ## Results
 
-# Model Training
+### Model Training
 
 
 ![agent model training](media/agent_score.png)
 
 
-# Plots of Rewards
+### Plots of Rewards
 
 ![plot of rewards](media/agent_training_plot.png)
 
