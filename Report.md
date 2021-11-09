@@ -1,7 +1,7 @@
 
 # Deep Reinforcement Navigation
 
-### Introduction
+## Introduction
 
 The goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 
@@ -9,7 +9,7 @@ The goal of your agent is to collect as many yellow bananas as possible while av
 ![Gif of my implementation](media/agent_working.gif)
 
 
-### Environment
+## Environment
 
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
@@ -27,15 +27,15 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 The project environment is similar to, but not identical to the Banana Collector environment on the Unity ML-Agents.
 
-### Model Architecture
+## Model Architecture
 
 
 
 
-### Hyperparameters
+## Hyperparameters
 
-### Algorithm
+## Algorithm
 
-### Plots of Rewards
+## Plots of Rewards
 
-### Ideas For Future Works
+## Ideas For Future Works
