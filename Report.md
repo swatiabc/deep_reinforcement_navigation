@@ -136,4 +136,8 @@ Deep Q-Learning samples experience transitions uniformly from a replay memory. P
 Currently, in order to determine which states are (or are not) valuable, we have to estimate the corresponding action values for each action. However, by replacing the traditional Deep Q-Network (DQN) architecture with a dueling architecture, we can assess the value of each state, without having to learn the effect of each action.
 
 
-Another implementation (as suggessted in the course) is using pixels instead of velocity, along with ray-based perception of objects around its forward direction. For thos method we need to create a convolution network to train the agent. 
+Another implementation (as suggessted in the course) is using pixels instead of velocity, along with ray-based perception of objects around its forward direction. For thos method we need to create a convolution network to train the agent.
+
+## References
+
+1. Deep Reinforcement Learning Udacity Nanodegree
