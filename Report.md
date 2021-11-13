@@ -29,13 +29,41 @@ The project environment is similar to, but not identical to the Banana Collector
 
 ## Model Architecture
 
+Deep Q Network
+Replay Buffer
 
+
+![deep q network architecture](media/model_arch.png)
 
 
 ## Hyperparameters
 
+
+> - BUFFER_SIZE = int(1e5)  # replay buffer size 
+> - BATCH_SIZE = 64         # minibatch size
+> - GAMMA = 0.99            # discount factor
+> - TAU = 1e-3              # for soft update of target parameters
+> - LR = 5e-4               # learning rate 
+> - UPDATE_EVERY = 4        # how often to update the network
+
+
 ## Algorithm
 
-## Plots of Rewards
+
+![Deep Q algorithm](media/algorithm.png)
+
+## Results
+
+### Model Training
+
+
+![agent model training](media/agent_score.png)
+
+
+### Plots of Rewards
+
+![plot of rewards](media/agent_training_plot.png)
 
 ## Ideas For Future Works
+
+
